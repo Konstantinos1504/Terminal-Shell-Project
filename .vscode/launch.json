@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/konstantinoshatzipanis/Documents/Bachelor of Science Degree/Year 3/Computer Science III/Operating Systems /Terminal Project",
+      "program": "/Users/konstantinoshatzipanis/Documents/Bachelor of Science Degree/Year 3/Computer Science III/Operating Systems /Terminal Project/build/Debug/outDebug"
+    }
+  ]
+}
